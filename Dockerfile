@@ -1,4 +1,4 @@
-FROM amazoncorretto:17-al2-jdk
+FROM amazoncorretto:8
 
 COPY target/proyecto-final-prograII-mvc-0.0.1-SNAPSHOT.jar pro.jar
 
